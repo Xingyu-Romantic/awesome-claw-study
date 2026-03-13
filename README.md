@@ -3,7 +3,7 @@
 > OpenClaw 龙虾使用方案汇总 | 打造你的 AI 私人助理
 
 <p align="center">
-  <img src="https://mintcdn.com/clawdhub/FaXdIfo7gPK_jSWb/assets/openclaw-logo-text.png" width="300" alt="OpenClaw"/>
+  <img src="./logo.svg" width="120" alt="OpenClaw"/>
   <br>
   <a href="https://github.com/Xingyu-Romantic/awesome-claw-study/stargazers">
     <img src="https://img.shields.io/github/stars/Xingyu-Romantic/awesome-claw-study" alt="stars"/>
