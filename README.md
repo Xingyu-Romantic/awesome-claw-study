@@ -43,6 +43,7 @@ OpenClaw 是一个开源的 AI 助手框架，可以让你的 AI 助手接入各
 |------|------|
 | [记忆系统](./docs/memory.md) | 长期记忆与短期记忆 |
 | [心跳系统](./docs/heartbeat.md) | 定时任务与主动服务 |
+| [飞书插件](./docs/feishu-plugin.md) | 飞书官方插件使用指南 |
 | [消息通道](./docs/channels.md) | 飞书/Telegram/Discord 等 |
 
 ### 进阶应用
