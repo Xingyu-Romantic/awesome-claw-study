@@ -16,12 +16,6 @@
   </a>
 </p>
 
-### 📈 Star 历史
-
-<a href="https://star-history.com/#Xingyu-Romantic/awesome-claw-study">
-  <img src="https://api.star-history.com/svg?repos=Xingyu-Romantic/awesome-claw-study&type=Date" alt="Star History"/>
-</a>
-
 ## ✨ 什么是 OpenClaw？
 
 OpenClaw 是一个开源的 AI 助手框架，可以让你的 AI 助手接入各种消息通道（飞书、Telegram、Discord 等），并通过 Skills 扩展各种能力。
@@ -127,6 +121,14 @@ awesome-claw-study/
 ## 📄 许可证
 
 MIT License - 自由使用、修改和分发
+
+---
+
+## 📈 Star 历史
+
+<a href="https://star-history.com/#Xingyu-Romantic/awesome-claw-study">
+  <img src="https://api.star-history.com/svg?repos=Xingyu-Romantic/awesome-claw-study&type=Date" alt="Star History"/>
+</a>
 
 ---
 
