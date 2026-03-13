@@ -38,6 +38,8 @@ OpenClaw 是一个开源的 AI 助手框架，可以让你的 AI 助手接入各
 | [安装指南](./docs/getting-started.md) | 5 分钟快速上手 |
 | [配置说明](./docs/configuration.md) | 配置文件详解 |
 | [技能系统](./docs/skills.md) | 如何使用和安装技能 |
+| [浏览器控制](./docs/browser.md) | 网页自动化 |
+| [节点连接](./docs/nodes.md) | 伴侣设备配对与使用 |
 
 ### 核心功能
 | 文档 | 描述 |
