@@ -91,20 +91,17 @@ openclaw help
 awesome-claw-study/
 ├── README.md                 # 本文件
 ├── LICENSE                   # MIT 许可证
-├── docs/                     # 文档目录
+├── docs/                     # 官方文档（中文整理）
 │   ├── getting-started.md   # 入门指南
 │   ├── configuration.md     # 配置说明
-│   ├── skills.md            # 技能系统
 │   ├── memory.md            # 记忆系统
-│   ├── heartbeat.md         # 心跳系统
-│   ├── channels.md          # 消息通道
-│   ├── quant.md             # 量化交易
-│   ├── automation.md        # 自动化
-│   ├── browser.md           # 浏览器控制
-│   ├── security.md          # 安全加固
-│   └── troubleshooting.md   # 问题排查
-├── examples/                 # 示例代码
-└── resources/                # 资源文件
+│   ├── heartbeat.md         # 心跳 vs Cron
+│   └── channels.md          # 飞书渠道配置
+├── cases/                    # 实战案例
+│   ├── quant-system.md      # 量化交易系统
+│   └── waytoagi-learning.md # 知识库批量学习
+└── resources/                # 外部资源
+    └── external.md          # 社区精选资源
 ```
 
 ## 🤝 贡献
